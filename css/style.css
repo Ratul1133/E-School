@@ -1,0 +1,409 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+body{
+   font-family: 'poppins', sans-serif;
+}
+header{
+
+background: #f0fff0;
+
+}
+.btn-signin{
+   
+background: #21b573;
+   
+color: #fff;
+   
+text-transform: capitalize;
+   
+border-radius: 30px;
+   
+padding: 0;
+   
+padding: 4px 25px;
+   
+margin: 7px 0;
+}
+.btn-signin:hover{
+   background: #094e2f;
+}
+.nav-item{
+   margin-left: 15px;
+}
+.con{
+   min-height: 85vh;
+   align-items: center;
+}
+.banner-content{
+
+}
+.banner-content h5{
+   
+font-weight: 400;
+   
+font-size: 16px;
+   
+line-height: 24px;
+   
+color: #fd511a;
+}
+.banner-content h1{
+   
+font-weight: 700;
+   
+font-size: 48px;
+   
+line-height: 70px;
+   
+color: #000;
+}
+.banner-content p{
+   
+font-weight: 400;
+   
+font-size: 16px;
+   
+line-height: 36px;
+   
+color: #6c6b6b;
+}
+.futore{
+
+}
+.futireimg{
+   border-radius: 10px;
+background: #f8fffb;
+}
+.futireimg img{
+   
+width: 75px;
+}
+.futireimg h3{
+   
+font-weight: 500;
+   
+font-size: 24px;
+   
+line-height: 36px;
+   
+color: #413960;
+margin-top: 10px;
+}
+.futireimg p{
+   
+font-weight: 400;
+   
+font-size: 16px;
+   
+line-height: 24px;
+   
+color: #585859;
+}
+.book img{
+ width: 60px;  
+}
+.futireimg:hover{
+  background: #fff; 
+  box-shadow: 0px 20px 40px rgba(0, 0,0, 0.1);
+  border-radius: 10px;
+}
+.course{
+
+background: #fff;
+
+padding: 20px;
+box-shadow: 0px 10px 40px rgba(0, 0,0, 0.1);
+border-radius: 18px;
+}
+.course img{
+   
+}
+.course h2{
+   
+font-weight: 500;
+   
+font-size: 24px;
+   
+line-height: 36px;
+   margin-top: 20px;
+color: #413960;
+}
+.course h5{
+
+}
+.btn-course{
+
+}
+.course ul{list-style: none;margin: 0;padding: 0;display: flex;justify-content: space-between;}
+.course ul li{
+
+color: #585859;
+
+font-size: 16px;
+
+line-height: 24px;
+}
+.course ul li i{
+
+margin-right: 10px;
+}
+.hadig h1{
+   
+font-size: 36px;
+   
+line-height: 54px;
+   
+text-align: center;
+color: #413960;
+}
+.alind{
+
+width: 40%;
+
+margin-left: auto;
+
+border: 2px solid #a79f9f;
+
+border-radius: 70px;
+
+overflow: hidden;
+}
+.alind img{
+  
+}
+.alominiam p{
+   color: #000;
+   font-size: 16px;
+   line-height: 30px;
+}
+footer{background: #282531;color: #fff;}
+footer p{
+   
+font-size: 16px;
+   
+line-height: 30px;
+}
+footer ul{
+   
+list-style: none;
+   
+margin: 0;
+   
+padding: 0;
+}
+*{
+   margin: 0;
+   padding: 0;
+}
+body{
+   font-family: 'poppins', sans-serif;
+}
+header{
+
+background: #f0fff0;
+
+}
+.btn-signin{
+   
+background: #21b573;
+   
+color: #fff;
+   
+text-transform: capitalize;
+   
+border-radius: 30px;
+   
+padding: 0;
+   
+padding: 4px 25px;
+   
+margin: 7px 0;
+}
+.btn-signin:hover{
+   background: #1e6847;
+   color: #fff;
+}
+.nav-item{
+   margin-left: 15px;
+}
+.con{
+   min-height: 85vh;
+   align-items: center;
+}
+.banner-content{
+
+}
+.banner-content h5{
+   
+font-weight: 400;
+   
+font-size: 16px;
+   
+line-height: 24px;
+   
+color: #fd511a;
+}
+.banner-content h1{
+   
+font-weight: 700;
+   
+font-size: 48px;
+   
+line-height: 70px;
+   
+color: #000;
+}
+.banner-content p{
+   
+font-weight: 400;
+   
+font-size: 16px;
+   
+line-height: 36px;
+   
+color: #6c6b6b;
+}
+.futore{
+
+}
+.futireimg{
+   border-radius: 10px;
+background: #f8fffb;
+}
+.futireimg img{
+   
+width: 75px;
+}
+.futireimg h3{
+   
+font-weight: 500;
+   
+font-size: 24px;
+   
+line-height: 36px;
+   
+color: #413960;
+margin-top: 10px;
+}
+.futireimg p{
+   
+font-weight: 400;
+   
+font-size: 16px;
+   
+line-height: 24px;
+   
+color: #585859;
+}
+.book img{
+ width: 60px;  
+}
+.futireimg:hover{
+  background: #fff; 
+  box-shadow: 0px 20px 40px rgba(0, 0,0, 0.1);
+  border-radius: 10px;
+}
+.course{
+
+background: #fff;
+
+padding: 20px;
+box-shadow: 0px 10px 40px rgba(0, 0,0, 0.1);
+border-radius: 18px;
+}
+.course img{
+   
+}
+.course h2{
+   
+font-weight: 500;
+   
+font-size: 24px;
+   
+line-height: 36px;
+   margin-top: 20px;
+color: #413960;
+}
+.course h5{
+
+}
+.btn-course{
+
+}
+.course ul{list-style: none;margin: 0;padding: 0;display: flex;justify-content: space-between;}
+.course ul li{
+
+color: #585859;
+
+font-size: 16px;
+
+line-height: 24px;
+}
+.course ul li i{
+
+margin-right: 10px;
+}
+.hadig h1{
+   
+font-size: 36px;
+   
+line-height: 54px;
+   
+text-align: center;
+color: #413960;
+}
+.alind{
+
+width: 40%;
+
+margin-left: auto;
+
+border: 2px solid #a79f9f;
+
+border-radius: 70px;
+
+overflow: hidden;
+}
+.alind img{
+  
+}
+.alominiam p{
+   color: #000;
+   font-size: 16px;
+   line-height: 30px;
+}
+footer{background: #282531;color: #fff;}
+footer p{
+   
+font-size: 16px;
+   
+line-height: 30px;
+}
+footer ul{
+   
+list-style: none;
+   
+margin: 0;
+   
+padding: 0;
+}
+footer ul li{
+   
+font-weight: 200;
+}
+footer ul li:first-child{
+   font-weight: 700;
+}
+ 
+.bok h5{
+   
+color: #cdcdcd;
+   
+padding: 30px 0;
+   
+font-size: 16px;
+   
+font-weight: 400;
+  } 
